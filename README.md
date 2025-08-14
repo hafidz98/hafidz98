@@ -56,7 +56,7 @@ Here are some of the technologies I am proficient in or have used:
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafidz98&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz98&layout=compact&theme=default)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz98&layout=compact&theme=default) -->
 
 
 <!--
